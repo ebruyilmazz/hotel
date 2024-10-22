@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\bin\Debug\Pansiyon.exe.config
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\bin\Debug\Pansiyon.exe
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\bin\Debug\Pansiyon.pdb
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.FrmYeniMusteri.resources
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.Properties.Resources.resources
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.exe
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.pdb
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.FrmAdminGiris.resources
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.FrmAnaForm.resources
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.FrmOdalar.resources
+C:\Users\PC\OneDrive\Masaüstü\pansiyon\Pansiyon\Pansiyon\obj\Debug\Pansiyon.FrmMusteriler.resources
